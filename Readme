@@ -1,1 +1,9 @@
-hii
+Clone the project 
+
+Requirements : Node.js 
+
+Open Cmd in root folder: 
+1.npm install
+2.npm run dev
+
+
